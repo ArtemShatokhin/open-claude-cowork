@@ -55,8 +55,8 @@ Documentation-based, not a benchmark, security certification, or legal opinion. 
 
 The companion site goes further than this repository on self-hosting and on how an open-source system stacks up against the closed assistants.
 
-- Self-hosting on your own VPC or on-prem machine starts with the [self-hosting guide](https://opensourceclaudecowork.com/self-hosting.html).
-- Kortix's place beside the wider field is mapped in the [open-source AI agent platforms list](https://opensourceclaudecowork.com/open-source-ai-agent-platforms.html).
-- Multi-step planning and hand-offs between agents are explained in [AI agent orchestration](https://opensourceclaudecowork.com/ai-agent-orchestration.html).
-- What changes when a closed assistant meets an open-source system is the subject of the [Claude Cowork vs ChatGPT Work comparison](https://opensourceclaudecowork.com/claude-cowork-vs-chatgpt-work.html).
-- How to run Kortix and other open-source AI agent platforms on your own infrastructure is covered in the [self-hosted AI agent platform guide](https://opensourceclaudecowork.com/self-hosted-ai-agent-platform.html).
+- Self-hosting on your own VPC or on-prem machine starts with the [self-hosting guide](https://opensourceclaudecowork.com/self-hosting).
+- Kortix's place beside the wider field is mapped in the [open-source AI agent platforms list](https://opensourceclaudecowork.com/open-source-ai-agent-platforms).
+- Multi-step planning and hand-offs between agents are explained in [AI agent orchestration](https://opensourceclaudecowork.com/ai-agent-orchestration).
+- What changes when a closed assistant meets an open-source system is the subject of the [Claude Cowork vs ChatGPT Work comparison](https://opensourceclaudecowork.com/claude-cowork-vs-chatgpt-work).
+- How to run Kortix and other open-source AI agent platforms on your own infrastructure is covered in the [self-hosted AI agent platform guide](https://opensourceclaudecowork.com/self-hosted-ai-agent-platform).

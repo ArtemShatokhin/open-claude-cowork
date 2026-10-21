@@ -43,6 +43,10 @@ PRs welcome. Keep the rules simple: one entry per project and a primary source f
 
 This list covers **self-hostable agent workspaces**, not search engines. If your need is an answer engine (Perplexity-style), see our companion list, **open-perplexity**.
 
+## What you may read, run and redistribute
+
+A repository that calls itself open source can still reserve a directory for paying customers, and OpenWork's `ee/` is the clearest example: MIT outside the directory, the OpenWork Enterprise Edition License inside it. [Which entries you can actually read](docs/which-entries-you-can-actually-read.md) writes the split down project by project, from each repository's own license files, and tabulates what each set of terms allows you to change, sell, redistribute and host for other people.
+
 ## Disclaimer
 
 Documentation-based, not a benchmark, security certification, or legal opinion. Licences change; verify the `LICENSE` file at the commit you deploy.

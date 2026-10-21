@@ -41,7 +41,7 @@ A real self-host path names the operating system, the ports, the DNS records, th
 
 Kortix documents its path ([Read the docs](https://kortix.com/docs)). The self-hosting page describes one Docker Compose stack that the `kortix self-host` CLI installs, configures, and updates. The requirements are concrete. You bring a Linux server with a public IP, A and AAAA records, and ports 80 and 443. You also bring a sandbox provider key, and a model key you add in the web app after the first sign-in.
 
-The page also states what self-hosting does not cover. Sessions run on a cloud sandbox provider (Daytona, Platinum, or E2B), not on your server. The instance has to stay reachable so those sandboxes can call back. Hosting the platform and hosting the agent's computer are two decisions, and the page separates them.
+The page also states what self-hosting does not cover. Sessions run on Platinum, the reference sandbox provider, not on your server. The instance has to stay reachable so those sandboxes can call back. Hosting the platform and hosting the agent's computer are two decisions, and the page separates them.
 
 ## Check 3: the install command runs
 

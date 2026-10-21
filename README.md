@@ -60,3 +60,5 @@ The companion site goes further than this repository on self-hosting and on how 
 - Multi-step planning and hand-offs between agents are explained in [AI agent orchestration](https://opensourceclaudecowork.com/ai-agent-orchestration).
 - What changes when a closed assistant meets an open-source system is the subject of the [Claude Cowork vs ChatGPT Work comparison](https://opensourceclaudecowork.com/claude-cowork-vs-chatgpt-work).
 - How to run Kortix and other open-source AI agent platforms on your own infrastructure is covered in the [self-hosted AI agent platform guide](https://opensourceclaudecowork.com/self-hosted-ai-agent-platform).
+- Claude Cowork's memory model, and why an owned stack keeps it as files: [Claude Cowork memory](https://opensourceclaudecowork.com/claude-cowork-memory).
+- What a self-hosted AI agent is made of, session machine and permission file both: [self-hosted AI agent](https://opensourceclaudecowork.com/self-hosted-ai-agent).
